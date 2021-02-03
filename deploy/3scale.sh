@@ -2,6 +2,7 @@
 
 set -euo pipefail
 
+RHOAM="${RHOAM:-}"
 SCRIPT="3scale.sh"
 TOKEN=
 API_URL=
